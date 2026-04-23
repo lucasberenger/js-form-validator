@@ -6,9 +6,9 @@ Form validator made with JavaScript and HTML. The form has the followgin rules:
  - Email must be a gmail (@gmail.com).
 
 ---
-<div>
-  <img src="./assets/form.png" width="300" />
-  <img src="./assets/form-fail.png" width="373" />
-  <img src="./assets/form-success.png" width="325" />
+<div style="display: flex; flex-direction: column; gap: 10px;">
+  <img src="./assets/form.png" style="width: 300px; height: 300px;" />
+  <img src="./assets/form-fail.png" style="width: 300px; height: 300px;" />
+  <img src="./assets/form-success.png" style="width: 300px; height: 300px;" />
 </div>
 
